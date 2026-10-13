@@ -21,5 +21,5 @@ development, in Brisbane or remote anywhere in Australia.
 React, TypeScript, accessibility (WCAG)
 
 ## Get in touch
-- LinkedIn: [(https://www.linkedin.com/in/araujookelly/)]
+- LinkedIn: (https://www.linkedin.com/in/araujookelly/)
 - Email: Kelly-thaiane@hotmail.com
